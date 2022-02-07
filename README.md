@@ -1,6 +1,6 @@
 # Course-App
 
+## Clone from github and 
 ```javascript
-cd blog 
 npm instal
 ```
